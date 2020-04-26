@@ -113,6 +113,15 @@ figure{
   background-size: cover;
 }
 
+#fixed1{
+  background-image: url('img/wave7.jfif');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
 [class*="col-"] {
     padding: 1rem;
 }
